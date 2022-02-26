@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd02bb35-06d4-497c-af52-36eb3c560bcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../week-02/assessment/.idea/assessment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/week-03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/Exercise09/src/main/java/ArrayMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/Exercise09/src/main/java/ArrayMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/Exercise09/src/test/java/ArrayMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/Exercise09/src/test/java/ArrayMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/Submarine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/Submarine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/chess/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/chess/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/chess/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/chess/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/commerce/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/main/java/learn/commerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/SubmarineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/SubmarineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/chess/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/chess/KnightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/chess/QueenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/chess/QueenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/commerce/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateful-unit-test-exercises/src/test/java/learn/commerce/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/Exercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/main/java/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise01Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise02Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise02Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise03Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise03Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise04Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise04Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise05Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise05Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise06Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise06Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise07Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/Exercise07Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/StringMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/exercises/stateless-unit-test-exercises/src/test/java/StringMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/untitled/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/cards/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/cards/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/cards/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/cards/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/cards/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/cards/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/poker/TwoCardHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enum-exercises/src/main/java/learn/poker/TwoCardHand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum-exercises/src/test/java/learn/cards/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enum-exercises/src/test/java/learn/cards/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum-exercises/src/test/java/learn/poker/TwoCardHandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enum-exercises/src/test/java/learn/poker/TwoCardHandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/data/memories-seed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/data/memories-seed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/data/memories-test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/data/memories-test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/data/DataAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/data/DataAccessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/data/MemoryFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/data/MemoryFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/data/MemoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/data/MemoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/domain/MemoryResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/domain/MemoryResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/models/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/models/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/ConsoleIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/ConsoleIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/TextIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/TextIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/main/java/learn/memories/ui/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/test/java/learn/memories/data/MemoryFileRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/test/java/learn/memories/data/MemoryFileRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/test/java/learn/memories/data/MemoryRepositoryDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/test/java/learn/memories/data/MemoryRepositoryDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/src/test/java/learn/memories/domain/MemoryServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/src/test/java/learn/memories/domain/MemoryServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1xoxbPqqdABzotNJQ9bLyJBAU3n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../assessment" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="learn.unexplained.data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EncounterServiceTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.unexplained.App" />
+      <module name="unexplained-encounters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.unexplained.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in unexplained-encounters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unexplained-encounters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncounterServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unexplained-encounters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.unexplained.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learn.unexplained.domain" />
+      <option name="MAIN_CLASS_NAME" value="learn.unexplained.domain.EncounterServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EncounterServiceTest" />
+        <item itemvalue="JUnit.All in unexplained-encounters" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd02bb35-06d4-497c-af52-36eb3c560bcf" name="Changes" comment="" />
+      <created>1631035313040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631035313040</updated>
+      <workItem from="1631035314239" duration="13439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
